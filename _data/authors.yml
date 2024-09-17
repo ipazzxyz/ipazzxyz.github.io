@@ -1,0 +1,14 @@
+Maksim Boimel:
+  name        : "Максим Боймель"
+  bio         : "Ученик физтех-лицея и просто странный человек."
+  avatar      : "/assets/images/maksim.jpg"
+  links:
+    - label: "Сайт"
+      icon: "fas fa-fw fa-link"
+      url: "https://ipazz.xyz"
+    - label: "Почта"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:billyrick@rick.com"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/ipazzxyz"

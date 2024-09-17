@@ -1,0 +1,13 @@
+title: ipazzxyz
+title_separator: |
+url: https://ipazz.xyz
+repository: ipazzxyz/ipazzxyz.github.io
+atom_feed:
+  hide: true
+search: true
+locale: ru
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
+
+include: [_pages]
