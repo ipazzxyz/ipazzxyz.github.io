@@ -8,6 +8,7 @@ search: true
 locale: ru
 
 theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 
 include: [_pages]
